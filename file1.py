@@ -11,4 +11,9 @@ console.log('sexto comentario')
 
 lo cambie arriba
  
+ 
 Voy a subirlo ya lo subi jejejejeje haber quq pasa esto esta en la rama 2
+=======
+Voy a subirlo
+lo subi jejejejeje haber quq pasa esto esta en la rama 2
+print('septimo comentario')
